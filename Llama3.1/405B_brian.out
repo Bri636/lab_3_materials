@@ -1,0 +1,96 @@
+using port: 80
+cmsc-35360
+http://66.55.67.65:80/v1
+llama31-405b-fp8
+
+Question: 1.) Which standard key ability of Sion has an easter egg? Give only the letter using standard keybinds, Q, W, E, R Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 1.) Evaluation - << Model Guess: e ||| Gold Answer: r ||| Correct: False >>
+
+Question: 2.) What standard key ability of Sion blows up? Give only the letter using standard keybinds, Q, W, E, R Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 2.) Evaluation - << Model Guess: e ||| Gold Answer: w ||| Correct: False >>
+
+Question: 3.) One of the most popular and well-known Skyrim phrases "Ahhh, So you are an ___ then?"? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 3.) Evaluation - << Model Guess: dragonborn ||| Gold Answer: alchemist ||| Correct: False >>
+
+Question: 4.) What is Jayce's enemy in LoL? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 4.) Evaluation - << Model Guess: viktor ||| Gold Answer: viktor ||| Correct: True >>
+
+Question: 5.) Who is Victor's mortal enemy in LoL? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 5.) Evaluation - << Model Guess: syndra ||| Gold Answer: jayce ||| Correct: False >>
+
+Question: 6.) What faction does Heimerdinger represent in LoL? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 6.) Evaluation - << Model Guess: piltover ||| Gold Answer: yordle ||| Correct: False >>
+
+Question: 7.) Which of Quinn's abilities in LoL has fastest cooldown? Give the letter using standard keybinds, Q, W, E, R without the name Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 7.) Evaluation - << Model Guess: e ||| Gold Answer: r ||| Correct: False >>
+
+Question: 8.) In Mario, the more you charge the higher your jump goes. True or False? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 8.) Evaluation - << Model Guess: false ||| Gold Answer: true ||| Correct: False >>
+
+Question: 9.) Vladimir in LoL can R while in W. True or False? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 9.) Evaluation - << Model Guess: true ||| Gold Answer: false ||| Correct: False >>
+
+Question: 10.) In LoL you can get corrupting potion along and a precursor potion at the same time. True or False? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 10.) Evaluation - << Model Guess: false ||| Gold Answer: false ||| Correct: True >>
+
+Question: 11.) In LoL, Yasuo can R if Sion hits his R. True or False? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 11.) Evaluation - << Model Guess: true ||| Gold Answer: true ||| Correct: True >>
+
+Question: 12.) In LoL, Yasuo can R if Singed Tosses. True or False? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 12.) Evaluation - << Model Guess: true ||| Gold Answer: true ||| Correct: True >>
+
+Question: 13.) Yasuo can get 100% critical strike within two items. True or False? **** Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 13.) Evaluation - << Model Guess: true ||| Gold Answer: false ||| Correct: False >>
+
+Question: 14.) Which Yordle blows stuff up? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 14.) Evaluation - << Model Guess: heimerdinger ||| Gold Answer: ziggs ||| Correct: False >>
+
+Question: 15.) What is a character with a human name in Minecraft? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 15.) Evaluation - << Model Guess: steve ||| Gold Answer: steve ||| Correct: True >>
+
+Question: 16.) I jump from a super tall structure in Minecraft. Can I survive this? True or False. Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 16.) Evaluation - << Model Guess: false ||| Gold Answer: true ||| Correct: False >>
+
+Question: 17.) Many people in minecraft say I am a redstone ____ Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 17.) Evaluation - << Model Guess: genius ||| Gold Answer: engineer ||| Correct: False >>
+
+Question: 18.) In pokemon Red and Blue, if you catch the famous glitch pokemon, your sixth item is increased by what factor? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 18.) Evaluation - << Model Guess: x256 ||| Gold Answer: 128 ||| Correct: False >>
+
+Question: 19.) In Warhammer 40K, the you are able to play the primarchs, True or False? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 19.) Evaluation - << Model Guess: false ||| Gold Answer: true ||| Correct: False >>
+
+Question: 20.) In League of Legends, which popular character is known for hitting a Cow-bell? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 20.) Evaluation - << Model Guess: heimerdinger ||| Gold Answer: alistar ||| Correct: False >>
+
+Question: 21.) You are in mario. You jump on a goomba while firing a fireball. Is this somehow possible? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 21.) Evaluation - << Model Guess: no ||| Gold Answer: true ||| Correct: False >>
+
+Question: 22.) In Halo, you see two needlers. Are you able to use both? Yes or No? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 22.) Evaluation - << Model Guess: no ||| Gold Answer: yes ||| Correct: False >>
+
+Question: 23.) You live in a mario world. Princess Peach gives you a kiss. Are you at the start or the end of the game? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 23.) Evaluation - << Model Guess: end ||| Gold Answer: end ||| Correct: True >>
+
+Question: 24.) You are in the first level of Halo. What is the month / date / year you are living in? Return as #### month_date_year Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 24.) Evaluation - << Model Guess: february_26_2552 ||| Gold Answer: september_19_2552 ||| Correct: False >>
+
+Question: 25.) You are playing liars dice with 5 dice per person and 4 people. Your oppponent tells you emphatically "20 sixes bozo!". True or False or Maybe? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 25.) Evaluation - << Model Guess: false ||| Gold Answer: maybe ||| Correct: False >>
+
+Question: 26.) You are playing liars dice with 2 dice per person and 3 people. You state emphatically "six sixes!" True or False or Maybe? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 26.) Evaluation - << Model Guess: false ||| Gold Answer: maybe ||| Correct: False >>
+
+Question: 27.) You are in League of Legends and Volibear hits a Q on you while you are in Sion R. Are you able to move? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 27.) Evaluation - << Model Guess: no ||| Gold Answer: yes ||| Correct: False >>
+
+Question: 28.) You are in pokemon and you just beat Giovanni in Saffron City. What you do earn? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 28.) Evaluation - << Model Guess: earthbadge ||| Gold Answer: master ||| Correct: False >>
+
+Question: 29.) You are in pokemon and you are breeding pokemon to get a pokemon with maximum stats. What is the pokemon that allows this kind of breeding for IV stats? Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 29.) Evaluation - << Model Guess: ditto ||| Gold Answer: ditto ||| Correct: True >>
+
+Question: 30.) You are in pokemon and you see sudowoodo. What type of pokemon from basic types is most effective? You have fire, water, electric. Return your answer as as single world or name, and do not include any punctuation #### answer
+Question: 30.) Evaluation - << Model Guess: fire ||| Gold Answer: water ||| Correct: False >>
+
+23.333333333333332

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#source ~/anaconda3/etc/profile.d/conda.sh
+conda activate openai
+
+python test-l3.1-405B.py > 405B.out
+wc -l 405B.out
+diff 405B.out ref.405B.out
+python test-l3.1-70B.py > 70B.out
+wc -l 70B.out
+diff 70B.out ref.70B.out
+python test-l3.1-8B.py > 8B.out
+wc -l 8B.out
+diff 8B.out ref.8B.out

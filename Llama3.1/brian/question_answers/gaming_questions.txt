@@ -1,0 +1,30 @@
+1.) Which standard key ability of Sion has an easter egg? Give only the letter using standard keybinds, Q, W, E, R
+2.) What standard key ability of Sion blows up? Give only the letter using standard keybinds, Q, W, E, R
+3.) One of the most popular and well-known Skyrim phrases "Ahhh, So you are an ___ then?"? 
+4.) What is Jayce's enemy in LoL?
+5.) Who is Victor's mortal enemy in LoL?
+6.) What faction does Heimerdinger represent in LoL? 
+7.) Which of Quinn's abilities in LoL has fastest cooldown? Give the letter using standard keybinds, Q, W, E, R without the name
+8.) In Mario, the more you charge the higher your jump goes. True or False?
+9.) Vladimir in LoL can R while in W. True or False?
+10.) In LoL you can get corrupting potion along and a precursor potion at the same time. True or False?
+11.) In LoL, Yasuo can R if Sion hits his R. True or False?
+12.) In LoL, Yasuo can R if Singed Tosses. True or False?
+13.) Yasuo can get 100% critical strike within two items. True or False?
+14.) Which Yordle blows stuff up?
+15.) What is a character with a human name in Minecraft?
+16.) I jump from a super tall structure in Minecraft. Can I survive this? True or False.
+17.) Many people in minecraft say I am a redstone ____
+18.) In pokemon Red and Blue, if you catch the famous glitch pokemon, your sixth item is increased by what factor?
+19.) In Warhammer 40K, the you are able to play the primarchs, True or False?
+20.) In League of Legends, which popular character is known for hitting a Cow-bell?
+21.) You are in mario. You jump on a goomba while firing a fireball. Is this somehow possible?
+22.) In Halo, you see two needlers. Are you able to use both? Yes or No?
+23.) You live in a mario world. Princess Peach gives you a kiss. Are you at the start or the end of the game?
+24.) You are in the first level of Halo. What is the month / date / year you are living in? Return as #### month_date_year
+25.) You are playing liars dice with 5 dice per person and 4 people. Your oppponent tells you emphatically "20 sixes bozo!". True or False or Maybe?
+26.) You are playing liars dice with 2 dice per person and 3 people. You state emphatically "six sixes!" True or False or Maybe?
+27.) You are in League of Legends and Volibear hits a Q on you while you are in Sion R. Are you able to move? 
+28.) You are in pokemon and you just beat Giovanni in Saffron City. What you do earn?
+29.) You are in pokemon and you are breeding pokemon to get a pokemon with maximum stats. What is the pokemon that allows this kind of breeding for IV stats?
+30.) You are in pokemon and you see sudowoodo. What type of pokemon from basic types is most effective? You have fire, water, electric.

@@ -1,0 +1,5 @@
+using port: 80
+http://103.101.203.226:80/v1
+cmsc-35360
+meta-llama/Meta-Llama-3.1-8B-Instruct
+

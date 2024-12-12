@@ -1,0 +1,12 @@
+Best score@k results observed by total time budget across different allocations between
+samples and time horizon. For different agents, the optimal number of independent runs is different.
+For instance, at 16 hours, we saw the highest score for Claude by taking the best of 32 half-hour
+runs (30min@32), whereas for o1-preview the best allocation was 2h@8, and for humans 8h@2.
+See Section 4 for details on which score@k results were evaluated. Shaded regions represent 95%
+confidence intervals generated via percentile bootstrapping, and are skewed downwards due to a
+long right tail of agent performance and best-of-k sampling. We find that agents initially make faster
+progress than humans, but that human experts improve more rapidly with additional time. That
+being said, current AI agents are substantially cheaper than human experts per unit time, suggesting
+that there may be ways to greatly improve AI agent performance in a given time budget by using
+additional tokens (see Section 6 for more discussion, and Figure 11 for a version of this graph with
+labor cost on the x-axis).

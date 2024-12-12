@@ -1,0 +1,157 @@
+using port: 80
+cmsc-35360
+http://195.88.24.64:80/v1
+meta-llama/Meta-Llama-3.1-70B-Instruct
+
+using port: 80
+Decimating Smash
+****************************************************
+
+Question #1 << Model Guess: decimating smash ||| Gold Answer: r >>
+
+Q
+****************************************************
+
+Question #2 << Model Guess: q ||| Gold Answer: w >>
+
+Dragonborn
+****************************************************
+
+Question #3 << Model Guess: dragonborn ||| Gold Answer: alchemist >>
+
+Viktor
+****************************************************
+
+Question #4 << Model Guess: viktor ||| Gold Answer: viktor >>
+
+Jax
+****************************************************
+
+Question #5 << Model Guess: jax ||| Gold Answer: jayce >>
+
+Yordle
+****************************************************
+
+Question #6 << Model Guess: yordle ||| Gold Answer: yordle >>
+
+E
+****************************************************
+
+Question #7 << Model Guess: e ||| Gold Answer: r >>
+
+False
+****************************************************
+
+Question #8 << Model Guess: false ||| Gold Answer: true >>
+
+True
+****************************************************
+
+Question #9 << Model Guess: true ||| Gold Answer: false >>
+
+False
+****************************************************
+
+Question #10 << Model Guess: false ||| Gold Answer: false >>
+
+True
+****************************************************
+
+Question #11 << Model Guess: true ||| Gold Answer: true >>
+
+True
+****************************************************
+
+Question #12 << Model Guess: true ||| Gold Answer: true >>
+
+True
+****************************************************
+
+Question #13 << Model Guess: true ||| Gold Answer: false >>
+
+Heimerdinger
+****************************************************
+
+Question #14 << Model Guess: heimerdinger ||| Gold Answer: ziggs >>
+
+Villager
+****************************************************
+
+Question #15 << Model Guess: villager ||| Gold Answer: steve >>
+
+False
+****************************************************
+
+Question #16 << Model Guess: false ||| Gold Answer: true >>
+
+genius
+****************************************************
+
+Question #17 << Model Guess: genius ||| Gold Answer: engineer >>
+
+EightyNine
+****************************************************
+
+Question #18 << Model Guess: eightynine ||| Gold Answer: 128 >>
+
+False
+****************************************************
+
+Question #19 << Model Guess: false ||| Gold Answer: true >>
+
+Anivia
+****************************************************
+
+Question #20 << Model Guess: anivia ||| Gold Answer: alistar >>
+
+Tanooki
+****************************************************
+
+Question #21 << Model Guess: tanooki ||| Gold Answer: true >>
+
+No
+****************************************************
+
+Question #22 << Model Guess: no ||| Gold Answer: yes >>
+
+End
+****************************************************
+
+Question #23 << Model Guess: end ||| Gold Answer: end >>
+
+2552_February_23_2552
+****************************************************
+
+Question #24 << Model Guess: 2552_february_23_2552 ||| Gold Answer: september_19_2552 >>
+
+False
+****************************************************
+
+Question #25 << Model Guess: false ||| Gold Answer: maybe >>
+
+False
+****************************************************
+
+Question #26 << Model Guess: false ||| Gold Answer: maybe >>
+
+No
+****************************************************
+
+Question #27 << Model Guess: no ||| Gold Answer: yes >>
+
+EarthBadge
+****************************************************
+
+Question #28 << Model Guess: earthbadge ||| Gold Answer: master >>
+
+Ditto
+****************************************************
+
+Question #29 << Model Guess: ditto ||| Gold Answer: ditto >>
+
+Fire
+****************************************************
+
+Question #30 << Model Guess: fire ||| Gold Answer: water >>
+
+23.333333333333332
